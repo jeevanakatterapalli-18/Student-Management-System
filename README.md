@@ -167,10 +167,5 @@ LIMIT 1;
 ## 👤 Author
 
 **Jeevana Jyothi Katterapalli**
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: https://github.com/jeevanakatterapalli-18
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
